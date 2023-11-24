@@ -1,6 +1,5 @@
 # Prédiction d’approbation de Prêt Immobilier
 
-**Auteur**: GBODJO Komlan Junior
 
 ## Résumé
 
