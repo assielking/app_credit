@@ -27,6 +27,9 @@ Ce projet de data science vise à développer un modèle de prédiction pour év
 - Pickle
 - NumPy
 
+- ![credit](https://github.com/assielking/app_credit/assets/145512245/7b64a726-803e-4409-9db0-d4cd6b1e60ce)
+
+
 ## Comment exécuter le code
 
 1. **Environnement virtuel :** Créez un environnement virtuel pour ce projet.
