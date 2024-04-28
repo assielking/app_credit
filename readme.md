@@ -18,13 +18,14 @@ Ce projet de data science vise à développer un modèle de prédiction pour év
 5. **Déploiement de l'application web :** Le modèle entraîné a été déployé dans une application web utilisant Flask. Cette application permet à la banque d'évaluer en temps réel l'admissibilité des demandeurs de prêt en fonction de leurs caractéristiques.
 
 ### Technologies utilisées :
-
+```
 - PyCharm
 - Flask
 - Machine Learning (Scikit-learn, etc.)
 - Python
 - Pickle
 - NumPy
+```
 
 - ![credit](https://github.com/assielking/app_credit/assets/145512245/7b64a726-803e-4409-9db0-d4cd6b1e60ce)
 
